@@ -1,11 +1,16 @@
 _repo: Tunneling-A-Practical-Treatise_60043
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60043-h/images/cover.jpg
 creator:
   author:
     agent_name: Prelini, Charles
     gutenberg_agent_id: '50758'
     url: http://www.gutenberg.org/2009/agents/50758
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60043#Tunneling-A-Practical-Treatise
 gutenberg_issued: '2019-08-03'
 gutenberg_type: Text
 identifiers:
